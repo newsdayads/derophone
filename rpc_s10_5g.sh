@@ -1,6 +1,6 @@
 #!/bin/bash
 while :; do
-    rand_name=S10_5G
+    rand_name=SS10-5G
     rand_num=$((RANDOM % 9999 + 1))
     
     "Ví Kucoin"
