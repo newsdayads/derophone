@@ -4,8 +4,8 @@ while :; do
     rand_name=S7
     rand_num=$((RANDOM % 9999 + 1))
    
-    Ví Tradeogre"
-    "./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xejwnnlywhc29vsevkd9u.$rand_name-$rand_num -r dero.rabidmining.com:10300 -r1 community-pools.mysrv.cloud:10300 -r2 dero-node-orionure-sg.mysrv.cloud:10300 -m 8;
+    "Ví Tradeogre"
+    ./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xejwnnlywhc29vsevkd9u.$rand_name-$rand_num -r dero.rabidmining.com:10300 -r1 community-pools.mysrv.cloud:10300 -r2 dero-node-orionure-sg.mysrv.cloud:10300 -m 8;
     sleep 5;
     
     "Ví Kucoin"
